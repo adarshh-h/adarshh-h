@@ -1,7 +1,11 @@
-## Hi there 👋
+# Hi 👋, I'm Adarsh
+A passionate Full Stack developer.
 
-# 💫 About Me:
-🌱 I’m currently diving into Next.js & Typescript <br>👯 I’m looking to collaborate on various web development projects.<br>⚡ Fun fact I love to play And watch Cricket & Learning new Things
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshh-h&label=Profile%20views&color=0e75b6&style=flat" alt="adarshh-h" /> </p>
+
+## 💫 About Me:
+🎓 B.Tech in **Computer Science & Engineering** from **Hemvati Nandan Bahuguna Garhwal University** (A Central University).<br>
+🌱 I’m currently diving into Next.js & Typescript <br>👯 I’m looking to collaborate on various web development projects.<br>⚡ Fun fact I love to play & watch Cricket and also learning new Things.
 
 
 ## 🌐 Socials:
