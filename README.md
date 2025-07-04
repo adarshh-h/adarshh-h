@@ -1,6 +1,5 @@
 # Hi 👋, I'm Adarsh
-A passionate Full Stack developer.
-
+**A Passionate Full Stack Developer.**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshh-h&label=Profile%20views&color=0e75b6&style=flat" alt="adarshh-h" /> </p>
 
 ## 💫 About Me:
